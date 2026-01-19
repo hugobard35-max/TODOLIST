@@ -8,7 +8,7 @@ Vous pouvez vous en servir également !
 Pour setup le projet :
 
 ```
-git clone https://github.com/hugobard35-max/TODOLIST.git
+git clone https://github.com/neptendusdev/TODOLIST.git
 ```
 
 Exécuter index.html dans le Projet
